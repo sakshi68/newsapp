@@ -16,7 +16,9 @@
      The website has been developed using Flutter and Rest-API Stack.
      
  ### Screenshots of the app:
-  
-     <img src="screenshots/ss1.png" height="600" width="800">
-     <img src="screenshots/ss2.png" height="600" width="800">
+ 
+<img src="screenshots/ss1.png" height="600" width="1000">
+/
+<img src="screenshots/ss2.png" height="600" width="1000">
+    
  
