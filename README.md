@@ -1,5 +1,5 @@
  
-# news_app
+# News_app
 
  News App is going to do the following function :
  <br>
