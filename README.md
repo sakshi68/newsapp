@@ -1,11 +1,22 @@
  
 # news_app
- 
-1. Fetch Json Response from newsapi.org
-2. Loading indicator and tenrary operations
-3. Set State.
-4. Create List and load JSON Data and Display
-5. Widgets and much more.
+
+ News App is going to do the following function :
+ <br>
+ <ui>
+<li> Fetch Json Response from newsapi.org </li>
+<li> Loading indicator and tenrary operations</li>
+<li> Set State.</li>
+<li> Create List and load JSON Data and Display</li>
+<li> Widgets and much more. </li>
+ </ui>
+ <br
+     
+ ###tech stack used:
+     <ui>
+     <li> Flutter</li>
+     <li> Rest Api</li>
+     </ui>
  **Main Page**
  
  
